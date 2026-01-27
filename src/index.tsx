@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import App from './09-redux-saga/App';  //导入验证 .tsx
+// import './02-class+ts/01-state' //导入验证 .ts
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
