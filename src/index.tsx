@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import App from './11-forwardRef/App';  //导入验证 .tsx
+import App from './12-memo/App';  //导入验证 .tsx
 // import './02-class+ts/01-state' //导入验证 .ts
 
 const root = ReactDOM.createRoot(
